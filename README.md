@@ -1,1 +1,1 @@
-bootstrap pages collection
+bootstrap Template collection
