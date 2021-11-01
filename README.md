@@ -1,1 +1,1 @@
-bootstrap Template collection
+**Bootstrap Template collection**
